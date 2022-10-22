@@ -1,4 +1,4 @@
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=895&height=100&lines=nyxdev.uno)](https://git.io/typing-svg)
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=950&height=100&lines=nyxdev.uno)](https://git.io/typing-svg)
 
 <h1 align="center">Welcome to my Profile!</h1>
 
