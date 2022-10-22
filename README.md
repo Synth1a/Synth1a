@@ -42,7 +42,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Synth1a/Synth1a/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/Synth1a/Synth1a/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
