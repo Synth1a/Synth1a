@@ -1,3 +1,5 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=nyxdev.uno)
+
 <h1 align="center">Welcome to my Profile!</h1>
 
 ###
