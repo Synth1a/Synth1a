@@ -5,8 +5,14 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=Synth1a" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=Synth1a" height="150" alt="languages graph"  />
+  <img height="300" src="https://media1.tenor.com/images/008101880d984632a433866398ef558f/tenor.gif?itemid=26971358"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=Synth" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&username=Synth" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -21,11 +27,7 @@
 
 ###
 
-<img align="left" height="300" src="https://media1.tenor.com/images/008101880d984632a433866398ef558f/tenor.gif?itemid=26971358"  />
-
-###
-
-<div align="left">
+<div align="center">
   <a href="https://discord.gg/C5gq4kBttV" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
@@ -42,7 +44,7 @@
 
 ###
 
-<img src="https://github.com/Synth1a/Synth1a/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Synth/Synth/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
