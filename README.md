@@ -47,11 +47,3 @@
 <img src="https://github.com/Synth1a/Synth1a/blob/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/wgupz8x7rohqanezzao2g3cxw">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=10&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
